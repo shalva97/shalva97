@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <a href="https://github.com/itaditya#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalva97&show_icons=true&theme=buefy#gh-light-mode-only" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/itaditya#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shalva97&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="My GitHub Stats" />
 </a>
