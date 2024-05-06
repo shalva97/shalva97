@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<a href="https://github.com/shalva97#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalva97&show_icons=true&theme=buefy#gh-light-mode-only" alt="My GitHub Stats" />
-</a>
-
-<a href="https://github.com/shalva97#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=shalva97&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="My GitHub Stats" />
-</a>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&theme=fuji&hide=avatar&dithering=true&a=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&theme=fuji&hide=avatar&avatar_border=false&screen_effect=true">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=LuciNyan&screen_effect=false&theme=fuji&avatar_border=false&pixelate_avatar=false&hide=avatar&dithering=true">
+</picture>
